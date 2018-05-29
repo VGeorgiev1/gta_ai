@@ -16,7 +16,7 @@ Using python with OpenCV and tenserflow as our machine learning backbone.
 
 **GTA:SA**
 
- You also need a working copy of Grand Theft Auto: San Andreas
+ You also need a working copy of Grand Theft Auto Vice City
 
 **Image recognition and machine learning**
 
